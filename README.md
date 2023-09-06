@@ -1,5 +1,5 @@
 <h1>Hi, I'm Matt! </h1>
-<h2>New graduate from Western Governor's University<br/> Bachelor's in Software Development</h2>
+<h2>New graduate from Western Governor's University<br/> Bachelor of Science, Software Development</h2>
 <!--
 <h2>👨‍💻 Software Development Projects:</h2> -->
 
