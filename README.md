@@ -5,8 +5,9 @@
 
 - <b>Class Projects:</b>
   - [Capstone](https://github.com/mcdonaldmn/FrazierPawTracks.git)
-<!--  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email) -->
+<!--  - [Mobile App](https://github.com/)
+  - [Software II](https://github.com/)
+  - [Software I](https://github.com/)-->
 
 <br><br><br><br><br><br>
 <img src="https://github.com/mcdonaldmn/mcdonaldmn/assets/143458943/f97c7212-92e6-4f29-81f0-d81aeeab492e" width="100" height="100">
